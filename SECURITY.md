@@ -7,10 +7,8 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| atikSharier  | :white_check_mark: |
-| atikSharier  | :x:                |
-| atikSharier  | :white_check_mark: |
-| < 1.0   | :x:                |
+| atikSharier  | :white_check_mark: v1 |               |
+| atikSharier  | :white_check_mark: Soon|
 
 ## Reporting a Vulnerability
 
